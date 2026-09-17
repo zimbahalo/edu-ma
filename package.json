@@ -1,0 +1,25 @@
+{
+  "name": "edu-ma",
+  "version": "1.0.0",
+  "description": "Project web Untuk jualan panel pterodactyl. fiturnya sangat banyak. jadi nanti kita gunakan hosting untuk webnya dan nantinya saya akan menggunakan banyak server juga. jadi walaupun banyak server panel pterodactyl tetapi ordernya tetap di 1 website yang sama",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zimbahalo/edu-ma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zimbahalo/edu-ma/issues"
+  },
+  "homepage": "https://github.com/zimbahalo/edu-ma#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
